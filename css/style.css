@@ -64,7 +64,7 @@ a {
 	position: relative;
 	margin: 0 auto;
 	padding: 0 0 20px 0;
-	height: 500px;
+	height: 800px;
 }
 
 
@@ -133,13 +133,14 @@ a {
 	background:#fff;
 	color:#3d3d3d;
 	padding: 50px 0;
-	height: 300px;
+	height: 200px;
 
 }
 
 .s1 {
 	background:#184764;
 	color:#fff;
+	height: 150px;
 
 }
 
@@ -153,11 +154,13 @@ a {
 
 .s3 {
 	background: #1b83b3;
+	height: 1200px;
 }
 
 
 .s4 {
 	background: #5aa3c4;
+	height: 100px;
 }
 
 
@@ -165,6 +168,7 @@ a {
 .s5 {
 	background: #bce1f1;
 	color: #3d3d3d;
+	height: 300px;
 }
 
 .s6 {
