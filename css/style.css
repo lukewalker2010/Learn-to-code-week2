@@ -2,7 +2,7 @@
 
 
 body {
-	font-family: Helvetica, Arial, Verdana, sans-serif;
+	font-family: 'Lato', sans-serif;
 	color: #e5e5e5;
 	font-size: 12px;
 	background:#bfbfbf;
@@ -12,14 +12,14 @@ body {
 
 
 h1, h2 {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Lato', sans-serif;
 	font-weight: 300;
 	margin:0 0 15px 0;
 }
 
 
 h1 {
-	font-size: 36px;
+	font-size: 50px;
 	letter-spacing: -1px;
 	line-height: 100%;
 }
@@ -75,7 +75,7 @@ a {
 	min-height: 50px;
 	padding:30px 0;
 	font-size: 18px;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Lato', sans-serif;
 	font-weight: 300;
 }
 
